@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>template</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>82107462AA</name>
+	<name>82107462aa</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -33,14 +33,14 @@
 	<repositories>
 		<repository>
 			<id>github</id>
-			<url>https://maven.pkg.github.com/kisanyi/82107462AA</url>
+			<url>https://maven.pkg.github.com/kisanyi/82107462aa</url>
 		</repository>
 	</repositories>
 	<distributionManagement>
 		<repository>
 			<id>github</id>
 			<name>GitHub Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/kisanyi/82107462AA</url>
+			<url>https://maven.pkg.github.com/kisanyi/82107462aa</url>
 		</repository>
 	</distributionManagement>
 
